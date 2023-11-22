@@ -1,6 +1,6 @@
-# Website
+# PigDocs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
 
 ### Installation
 
@@ -39,3 +39,9 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+Special Thanks for this Website to
+[Docusaurus 2](https://docusaurus.io/)
+[React](https://react.dev)
+MDX
