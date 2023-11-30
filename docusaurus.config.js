@@ -81,6 +81,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'DevLogs', position: 'left'},
+          {to: '/repl', label: 'Playground', position: 'left'},
           {
             href: 'https://github.com/abiin-kun/',
             label: 'GitHub',

@@ -10,7 +10,7 @@ Let's discover **Pig in less than 5 minutes**.
 
 Get started by **creating a new Hello World App**.
 
-Or **try Pig immediately** with our Repl[TODO].
+Or **try Pig immediately** with our Playground.
 
 ### What you'll need
 

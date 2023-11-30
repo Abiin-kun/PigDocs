@@ -2,20 +2,43 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
-
+ @import url('https://fonts.googleapis.com/css2?family=Turret+Road:wght@300&display=swap');
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
 }
-
+.In{
+  display: flex;
+  
+}
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
   }
 }
-
+.m{
+  font-family: 'Turret Road', sans-serif;
+}
+.Console {
+  display: flex;
+  flex-direction: column-reverse;
+  flex-flow: row wrap;
+  height: 15em;
+  overflow: scroll;
+  /* flex:1; */
+   
+}
+.Results {
+/* 
+  display: flex; */
+  flex:6;
+  overflow-y: auto;
+/* flex-direction: column; */
+flex-direction: column-reverse;
+min-height: 0px;
+}
 .buttons {
   display: flex;
   align-items: center;
