@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/abiin-kun/PigDocs/',
+            'https://github.com/abiin-kun/PigDocs/blob/master',
         },
         blog: {
           blogSidebarTitle: 'All posts',
@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/abiin-kun/PigDocs/',
+            'https://github.com/abiin-kun/PigDocs/blob/master',
         },
         theme: {
           customCss: './src/css/custom.css',
